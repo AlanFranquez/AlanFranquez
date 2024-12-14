@@ -34,5 +34,5 @@ I'm Alan, a fullstack developer located in Uruguay and a Uni Student
 
 ## 📫 Want to connect?
 - **LinkedIn**: [https://www.linkedin.com/in/alanfranquez/](https://www.linkedin.com/in/alanfranquez/)
-- **Correo**: [santifranquez@gmail.com](mailto:santifranquez@gmail.com) / [alan.franquez@estudiantes.utec.edu.uy](mailto:alan.franquez@estudiantes.utec.edu.uy)
+- **Email**: [santifranquez@gmail.com](mailto:santifranquez@gmail.com) / [alan.franquez@estudiantes.utec.edu.uy](mailto:alan.franquez@estudiantes.utec.edu.uy)
 
