@@ -1,8 +1,6 @@
 # Hi 👋
 I'm Alan, a fullstack developer located in Uruguay and a Uni Student
 
-📚 I just finished my second year in the Technological Degree in Computer Science in UTEC. <br>
-🔍 I'm always trying to learn something new. I believe my innate desire to master things is one of my strongest points.
 
 ---
 
