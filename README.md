@@ -1,5 +1,5 @@
 # Hi 👋
-I'm Alan, a fullstack developer located in Uruguay and a Uni Student
+I'm Alan, a fullstack developer located in Uruguay
 
 
 ---
