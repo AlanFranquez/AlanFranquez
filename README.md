@@ -27,7 +27,7 @@ I'm Alan, a fullstack developer located in Uruguay
 </div>
 
 
-![Top Langs]([https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alanfranquez])
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alanfranquez&layout=compact)
 
 
 ## 📫 Want to connect?
